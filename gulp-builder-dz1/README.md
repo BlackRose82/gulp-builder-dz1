@@ -1,4 +1,4 @@
-#Сборка от Loftschool - Shapira Cristina 
+#Сборка от Loftschool - Shapira Cristina (версия 2)
 
 Stack:
  - Gulp 4.0
